@@ -1,1 +1,1 @@
-icml2026_26643_rebuttal
+This is an anonymous repository for the rebuttal of ICML 2026 submission 26643.
